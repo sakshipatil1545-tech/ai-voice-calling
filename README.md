@@ -1,1 +1,3 @@
-# ai-voice-calling
+# Welcome to your Lovable project
+
+TODO: Document your project here
